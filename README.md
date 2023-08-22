@@ -1,2 +1,1 @@
-# bangkit-2023
-ini repo bangkit
+I am editing the README file. Adding some more details about the project description.
